@@ -1,5 +1,0 @@
-{
-  fname: 'Alounyadeth',
-  lname: 'VONGPHACHANH',
-  email: 'alounyadeth@lagroup.com.la'
-}
